@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: Greeting!
-      - run: echo hello world
+        run: echo hello world
 
 
   # test-python-3-14:
